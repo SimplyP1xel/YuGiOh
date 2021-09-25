@@ -5,7 +5,6 @@ public class Normalemonster {
     public int DEF;
     public int Stufe;
     public String Name;
-    public String Effekt;
     public String Typ;
 
 public void Angreifen() {
