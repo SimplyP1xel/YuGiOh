@@ -1,4 +1,4 @@
-//Yu-GI-OH
+//YU-GI-OH
 
 public class Normalmonster {
     public int atk;
